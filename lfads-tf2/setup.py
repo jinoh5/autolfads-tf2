@@ -5,9 +5,9 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "tensorflow-gpu==2.0.0",
+        "tensorflow-gpu==2.1.0",
         "tensorflow-probability==0.8.0",
-        "tensorflow-addons==0.6",
+        "tensorflow-addons==0.7.1",
         "tensorboard==2.0.2",
         "yacs==0.1.6",
         "PyYAML>=5.1",
